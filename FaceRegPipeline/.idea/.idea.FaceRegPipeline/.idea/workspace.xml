@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="978126d2-f5e7-4229-bd65-168362360aff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/FaceDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/HogDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FaceRegPipeline/Pipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/MmodDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/SingleShotDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FaceRegPipeline/Class1.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/FaceDetector.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/HogDetector.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/MmodDetector.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/FaceDetector.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/HogDetector.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/MmodDetector.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/Pipeline.cs" />
+        <option value="$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/SingleShotDetector.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWk9U8RIq38yAEDe5TsNSF2SCu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FaceRegPipeline" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FaceRegPipeline/FaceRegPipeline.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="978126d2-f5e7-4229-bd65-168362360aff" name="Default Changelist" comment="" />
+      <created>1577376088966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577376088966</updated>
+      <workItem from="1577376097081" duration="15675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577377978817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577377978817" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1577397304014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577397304014" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1577397304013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577397304013" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1577397304013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577397304013" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1577397304014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577397304014" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.2.bottom" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.2.center" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.2.left" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.2.right" timestamp="1577388502956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577388502956" />
+    <state width="1493" height="252" key="GridCell.Tab.3.bottom" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.3.center" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.3.left" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.3.right" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.4.bottom" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.4.center" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.4.left" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state width="1493" height="252" key="GridCell.Tab.4.right" timestamp="1577388502957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1577388502957" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1577377499037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577377499037" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577377580429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577377580429" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/SingleShotDetector.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/FaceRegPipeline/FaceDetectors/SingleShotDetector.cs" initialLine="48">
+            <startOffsets>
+              <option value="1911" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1956" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="dets.Dims" language="C#" custom="RiderImportsList:" />
+        <watch expression="dets.GetData()" language="C#" custom="RiderImportsList:" />
+        <watch expression="(int) (mat[0, 0, i, 3] * height)" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
