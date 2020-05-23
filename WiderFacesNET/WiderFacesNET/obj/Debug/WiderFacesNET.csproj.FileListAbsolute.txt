@@ -1,0 +1,10 @@
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\WiderFacesNET.exe.config
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\WiderFacesNET.exe
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\WiderFacesNET.pdb
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\obj\Debug\WiderFacesNET.csprojAssemblyReference.cache
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\obj\Debug\WiderFacesNET.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\obj\Debug\WiderFacesNET.csproj.CopyComplete
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\obj\Debug\WiderFacesNET.exe
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\obj\Debug\WiderFacesNET.pdb
