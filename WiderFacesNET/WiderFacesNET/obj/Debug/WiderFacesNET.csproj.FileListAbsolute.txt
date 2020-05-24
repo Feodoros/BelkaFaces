@@ -42,3 +42,4 @@ C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderF
 C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\tr\ZedGraph.resources.dll
 C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\zh-cn\ZedGraph.resources.dll
 C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\WiderFacesNET\WiderFacesNET\bin\Debug\csmatio.dll
