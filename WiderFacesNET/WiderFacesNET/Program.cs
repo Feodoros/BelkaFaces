@@ -59,13 +59,18 @@ namespace WiderFacesNET
             /// SSD
             
             
-            //  Get easy folders
+            //  Easy folders
             List<string> easyNames = new List<string>(){"Gymnastics", "Handshaking", "Waiter", "Conference",
                 "Worker", "Parachutist", "Coach", "Meeting",
                 "Aerobics", "Boat", "Dancing", "Swimming", 
                 "Family", "Balloonist", "Dresses", "Couple", 
                 "Jockey", "Tennis", "Spa", "Surgeons"};
             
+            // Numbers of easy folders
+            List<int> easyNumbers = new List<int>()
+            {
+                35, 1, 25, 60, 26, 43, 51, 3, 39, 38, 34, 36, 13, 40, 47, 11, 41, 32, 20, 24
+            };
             
             Console.WriteLine();
         }
