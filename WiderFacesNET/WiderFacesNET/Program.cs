@@ -32,6 +32,11 @@ namespace WiderFacesNET
             /// Распарсить имя файла
             /// метод IoU, calculate metrics
             /// SSD
+            ///
+            ///
+            /// 
+            
+            
             
             WiderFaces wf = new WiderFaces(pathImages, pathMat);
 
@@ -40,5 +45,7 @@ namespace WiderFacesNET
             
             Console.WriteLine();
         }
+
+       
     }
 }
