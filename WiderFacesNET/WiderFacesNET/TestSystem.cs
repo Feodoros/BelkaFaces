@@ -32,8 +32,8 @@ namespace WiderFacesNET
             // (x, y) - координаты прямоугольника из пересечения
             int xA = Math.Max(boxA[0], boxB[0]);
             int yA = Math.Max(boxA[1], boxB[1]);
-            int xB = Math.Max(boxA[2], boxB[2]);
-            int yB = Math.Max(boxA[3], boxB[3]);
+            int xB = Math.Min(boxA[2], boxB[2]);
+            int yB = Math.Min(boxA[3], boxB[3]);
             
             // Площадь прямоугольника, образованного пересечением двух других
             int interArea = Math.Max(0, xB - xA + 1) * Math.Max(0, yB - yA + 1);
