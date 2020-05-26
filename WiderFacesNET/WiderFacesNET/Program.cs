@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +11,7 @@ using Emgu.CV.Structure;
 using csmatio;
 using csmatio.io;
 using csmatio.types;
+using Emgu.CV.Dnn;
 
 namespace WiderFacesNET
 {
@@ -21,17 +24,49 @@ namespace WiderFacesNET
             string modelFile = @"C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\Models\opencv_face_detector_uint8.pb";
             string configFile = @"C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\Models\opencv_face_detector.pbtxt";
             string haar = @"C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\Models\haarcascade_frontalface_default.xml";
+
+            string file =
+                @"C:\Users\Fedor\Documents\Projects\BelkaFaces\WiredFaces\WIDER_train\All\0_Parade_marchingband_1_1038.jpg";
             
-            
-            
+            using (Image<Bgr, byte> image1 = new Image<Bgr, byte>(file))
+            {
+                int interception = 0;
+
+                int cols = image1.Width;
+
+                int rows = image1.Height;
+
+                Net netcfg = DnnInvoke.ReadNetFromTensorflow(modelFile, configFile);
+
+                netcfg.SetInput(DnnInvoke.BlobFromImage(image1.Mat, 1, new System.Drawing.Size(300, 300), default(MCvScalar), true, false));
+
+                Mat mat = netcfg.Forward();
+
+                float[,,,] flt = (float[,,,])mat.GetData();
+
+                for (int x = 0; x < flt.GetLength(2); x++)
+                {
+                    if (flt[0, 0, x, 2] > 0.2)
+                    {
+                        int left = Convert.ToInt32(flt[0, 0, x, 3] * cols);
+                        int top = Convert.ToInt32(flt[0, 0, x, 4] * rows);
+                        int right = Convert.ToInt32(flt[0, 0, x, 5] * cols);
+                        int bottom = Convert.ToInt32(flt[0, 0, x, 6] * rows);
+
+                        image1.Draw(new Rectangle(left, top, right - left, bottom - top), new Bgr(0, 0, 255), 2);
+                    }
+                }
+
+                image1.Save("testing-1.png");
+            }
             
             // ReSharper disable once InvalidXmlDocComment
             /// TODO:
             /// Получить номера easy folders питоном + 
-            /// Получить изображения + координаты из easy folders
-            /// Распарсить имя файла
-            /// метод IoU, calculate metrics
-            /// SSD
+            /// Получить изображения + координаты из easy folders +
+            /// Распарсить имя файла + 
+            /// метод IoU, calculate metrics + 
+            /// SSD + 
             ///
             ///
             ///
@@ -56,7 +91,7 @@ namespace WiderFacesNET
             
             WiderFaces wf = new WiderFaces(pathImages, pathMat);
 
-            var x = wf.GetBoxesEasy();
+            //var x = wf.GetBoxesEasy();
             var y = wf.GetPathsEasy();
             
             Console.WriteLine();
