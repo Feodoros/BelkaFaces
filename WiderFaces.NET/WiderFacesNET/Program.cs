@@ -21,14 +21,12 @@ namespace WiderFacesNET
         {
 
             
-            string pathMat = "C:\\Users\\Fedor\\Documents\\Projects\\BelkaFaces\\BelkaFaces_Git\\WiderFaces\\wider_face_train.mat";
-            string pathImages = "C:\\Users\\Fedor\\Documents\\Projects\\BelkaFaces\\WiredFaces\\WIDER_train\\All";
-            string modelFile = @"C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\Models\opencv_face_detector_uint8.pb";
-            string configFile = @"C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\Models\opencv_face_detector.pbtxt";
-            string haar = @"C:\Users\Fedor\Documents\Projects\BelkaFaces\BelkaFaces_Git\Models\haarcascade_frontalface_default.xml";
+            string pathMat = Environment.CurrentDirectory + "\wider_face_train.mat";
+            string pathImages = Environment.CurrentDirectory + "\WIDER_train\\All";
+            string modelFile = Environment.CurrentDirectory + "\opencv_face_detector_uint8.pb";
+            string configFile = Environment.CurrentDirectory + "\opencv_face_detector.pbtxt";
 
-            string file =
-                @"C:\Users\Fedor\Documents\Projects\BelkaFaces\WiredFaces\WIDER_train\All\0_Parade_marchingband_1_1038.jpg";
+            string file = pathImages + "\0_Parade_marchingband_1_1038.jpg";
             
             
             WiderFaces wf = new WiderFaces(pathImages, pathMat);
