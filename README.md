@@ -19,4 +19,4 @@ Solutions were tested with  [WiderFaces](http://shuoyang1213.me/WIDERFACE/) data
 ![alt text](https://github.com/Feodoros/BelkaFaces/blob/master/Images/scarf_test.png)
 
 ### [Here](https://github.com/Feodoros/BelkaFaces/tree/master/WiderFaces.NET/WiderFacesNET) you can see the implementation of SSD in .NET. 
-### Please feel free to ask questions, this helps us to develop this area of face analysis!
+### Please feel free to ask questions, this helps us to develop this field of face analysis!
